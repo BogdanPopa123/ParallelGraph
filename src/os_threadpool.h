@@ -41,5 +41,6 @@ void destroy_threadpool(os_threadpool_t *tp);
 void enqueue_task(os_threadpool_t *q, os_task_t *t);
 os_task_t *dequeue_task(os_threadpool_t *tp);
 void wait_for_completion(os_threadpool_t *tp);
+// void wait_for_completion(os_threadpool_t *tp, int (*stop_signal)(os_threadpool_t *));
 
 #endif
