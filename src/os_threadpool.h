@@ -16,7 +16,7 @@ typedef struct {
 typedef struct os_threadpool {
 	unsigned int num_threads;
 	pthread_t *threads;
-
+	
 	/*
 	 * Head of queue used to store tasks.
 	 * First item is head.next, if head.next != head (i.e. if queue
@@ -27,6 +27,9 @@ typedef struct os_threadpool {
 	os_list_node_t head;
 
 	/* TODO: Define threapool / queue synchronization data. */
+
+	// sem_t queue_semaphore;
+	pthread_mutex_t queue_mutex;
 } os_threadpool_t;
 
 os_task_t *create_task(void (*f)(void *), void *arg, void (*destroy_arg)(void *));
