@@ -84,16 +84,16 @@ os_task_t *dequeue_task(os_threadpool_t *tp)
 
 	pthread_mutex_lock(&tp->queue_mutex);
 
-	while (queue_is_empty(tp) && !tp->exit_flag) {
+	while (queue_is_empty(tp) && !tp->exit_flag)
 		pthread_cond_wait(&tp->condition, &tp->queue_mutex);
+
+
+	if (!queue_is_empty(tp)) {
+		t = list_entry(tp->head.next, os_task_t, list);
+		list_del(tp->head.next);
 	}
 
-    if (!queue_is_empty(tp)) {
-        t = list_entry(tp->head.next, os_task_t, list);
-        list_del(tp->head.next);
-    }
-
-    pthread_mutex_unlock(&tp->queue_mutex);
+	pthread_mutex_unlock(&tp->queue_mutex);
 
 	return t;
 
