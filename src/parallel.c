@@ -30,25 +30,27 @@ void process_neighbour(void *arg)
 	int idx = *index;
 
 	pthread_mutex_lock(&mutexes[0]);
-	if (graph->visited[idx] == 0) {
+	if (graph->visited[idx] == 0)
 		graph->visited[idx] = 1; //schimbam statusul nodului curent in processing
-	}
+
 	pthread_mutex_unlock(&mutexes[0]);
-	
+
 	pthread_mutex_lock(&mutexes[1]);
 	sum = sum + graph->nodes[idx]->info;
 	pthread_mutex_unlock(&mutexes[1]);
 
 
 	unsigned int i;
+
 	for (i = 0; i < graph->nodes[idx]->num_neighbours; i++) {
 		int *node_index = malloc(sizeof(int));
 		*node_index = graph->nodes[idx]->neighbours[i];
-		
-		
+
+
 		pthread_mutex_lock(&mutexes[0]);
 		if (graph->visited[graph->nodes[idx]->neighbours[i]] == 0) {
 			os_task_t *task = create_task(process_neighbour, (void *)(node_index), free);
+
 			graph->visited[graph->nodes[idx]->neighbours[i]] = 1; //schimbam statusul nodului vecin in processing
 			enqueue_task(tp, task);
 		}
@@ -56,32 +58,33 @@ void process_neighbour(void *arg)
 	}
 
 	graph->visited[idx] = 2; //schimbam statusul nodului curent in done
-
 }
 
 static void process_node(unsigned int idx)
 {
 	/* TODO: Implement thread-pool based processing of graph. */
 	pthread_mutex_lock(&mutexes[0]);
-	if (graph->visited[idx] == 0) {
+	if (graph->visited[idx] == 0)
 		graph->visited[idx] = 1; //schimbam statusul nodului curent in processing
-	}
+
 	pthread_mutex_unlock(&mutexes[0]);
-	
+
 	pthread_mutex_lock(&mutexes[1]);
 	sum = sum + graph->nodes[idx]->info;
 	pthread_mutex_unlock(&mutexes[1]);
 
 	//cream task cu fiecare vecin si il bagam in queue
 	unsigned int i;
+
 	for (i = 0; i < graph->nodes[idx]->num_neighbours; i++) {
 		int *node_index = malloc(sizeof(int));
 		*node_index = graph->nodes[idx]->neighbours[i];
-		
-		
+
+
 		pthread_mutex_lock(&mutexes[0]);
 		if (graph->visited[graph->nodes[idx]->neighbours[i]] == 0) {
 			os_task_t *task = create_task(process_neighbour, (void *)(node_index), free);
+
 			graph->visited[graph->nodes[idx]->neighbours[i]] = 1; //schimbam statusul nodului vecin in processing
 			enqueue_task(tp, task);
 		}

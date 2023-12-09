@@ -42,7 +42,7 @@ void enqueue_task(os_threadpool_t *tp, os_task_t *t)
 	assert(t != NULL);
 
 	/* TODO: Enqueue task to the shared task queue. Use synchronization. */
-	
+
 
 	pthread_mutex_lock(&tp->queue_mutex);
 
@@ -56,7 +56,6 @@ void enqueue_task(os_threadpool_t *tp, os_task_t *t)
 	}
 
 	pthread_mutex_unlock(&tp->queue_mutex);
-
 }
 
 /*
@@ -132,9 +131,9 @@ void wait_for_completion(os_threadpool_t *tp)
 	/* TODO: Wait for all worker threads. Use synchronization. */
 
 	pthread_mutex_lock(&tp->queue_mutex);
-    tp->exit_flag = 1;
-    pthread_cond_broadcast(&tp->condition);
-    pthread_mutex_unlock(&tp->queue_mutex);
+	tp->exit_flag = 1;
+	pthread_cond_broadcast(&tp->condition);
+	pthread_mutex_unlock(&tp->queue_mutex);
 
 	/* Join all worker threads. */
 	for (unsigned int i = 0; i < tp->num_threads; i++)

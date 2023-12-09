@@ -4,8 +4,8 @@
 #define __OS_THREADPOOL_H__	1
 
 #include <pthread.h>
-#include "os_list.h"
 #include <semaphore.h>
+#include "os_list.h"
 
 typedef struct {
 	void *argument;
@@ -17,7 +17,7 @@ typedef struct {
 typedef struct os_threadpool {
 	unsigned int num_threads;
 	pthread_t *threads;
-	
+
 	/*
 	 * Head of queue used to store tasks.
 	 * First item is head.next, if head.next != head (i.e. if queue
