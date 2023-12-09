@@ -1,0 +1,1601 @@
+
+==28124== Helgrind, a thread error detector
+==28124== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28124== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28124== Command: ./parallel ../tests/in/test7.in
+==28124== 
+-55==28124== 
+==28124== Use --history-level=approx or =none to gain increased speed, at
+==28124== the cost of reduced accuracy of conflicting-access information
+==28124== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28124-- 
+--28124-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28124== 
+==28124== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28129== Helgrind, a thread error detector
+==28129== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28129== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28129== Command: ./parallel ../tests/in/test7.in
+==28129== 
+-55==28129== 
+==28129== Use --history-level=approx or =none to gain increased speed, at
+==28129== the cost of reduced accuracy of conflicting-access information
+==28129== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28129-- 
+--28129-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28129== 
+==28129== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28134== Helgrind, a thread error detector
+==28134== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28134== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28134== Command: ./parallel ../tests/in/test7.in
+==28134== 
+-55==28134== 
+==28134== Use --history-level=approx or =none to gain increased speed, at
+==28134== the cost of reduced accuracy of conflicting-access information
+==28134== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28134-- 
+--28134-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28134== 
+==28134== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28149== Helgrind, a thread error detector
+==28149== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28149== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28149== Command: ./parallel ../tests/in/test7.in
+==28149== 
+-55==28149== 
+==28149== Use --history-level=approx or =none to gain increased speed, at
+==28149== the cost of reduced accuracy of conflicting-access information
+==28149== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28149-- 
+--28149-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28149== 
+==28149== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28154== Helgrind, a thread error detector
+==28154== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28154== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28154== Command: ./parallel ../tests/in/test7.in
+==28154== 
+-55==28154== 
+==28154== Use --history-level=approx or =none to gain increased speed, at
+==28154== the cost of reduced accuracy of conflicting-access information
+==28154== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28154-- 
+--28154-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28154== 
+==28154== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28163== Helgrind, a thread error detector
+==28163== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28163== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28163== Command: ./parallel ../tests/in/test7.in
+==28163== 
+-55==28163== 
+==28163== Use --history-level=approx or =none to gain increased speed, at
+==28163== the cost of reduced accuracy of conflicting-access information
+==28163== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28163-- 
+--28163-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28163== 
+==28163== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28168== Helgrind, a thread error detector
+==28168== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28168== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28168== Command: ./parallel ../tests/in/test7.in
+==28168== 
+-55==28168== 
+==28168== Use --history-level=approx or =none to gain increased speed, at
+==28168== the cost of reduced accuracy of conflicting-access information
+==28168== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28168-- 
+--28168-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28168== 
+==28168== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28173== Helgrind, a thread error detector
+==28173== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28173== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28173== Command: ./parallel ../tests/in/test7.in
+==28173== 
+-55==28173== 
+==28173== Use --history-level=approx or =none to gain increased speed, at
+==28173== the cost of reduced accuracy of conflicting-access information
+==28173== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28173-- 
+--28173-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28173== 
+==28173== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28178== Helgrind, a thread error detector
+==28178== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28178== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28178== Command: ./parallel ../tests/in/test7.in
+==28178== 
+-55==28178== 
+==28178== Use --history-level=approx or =none to gain increased speed, at
+==28178== the cost of reduced accuracy of conflicting-access information
+==28178== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28178-- 
+--28178-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28178== 
+==28178== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28185== Helgrind, a thread error detector
+==28185== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28185== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28185== Command: ./parallel ../tests/in/test7.in
+==28185== 
+-55==28185== 
+==28185== Use --history-level=approx or =none to gain increased speed, at
+==28185== the cost of reduced accuracy of conflicting-access information
+==28185== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28185-- 
+--28185-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28185== 
+==28185== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28190== Helgrind, a thread error detector
+==28190== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28190== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28190== Command: ./parallel ../tests/in/test7.in
+==28190== 
+-55==28190== 
+==28190== Use --history-level=approx or =none to gain increased speed, at
+==28190== the cost of reduced accuracy of conflicting-access information
+==28190== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28190-- 
+--28190-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28190== 
+==28190== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28195== Helgrind, a thread error detector
+==28195== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28195== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28195== Command: ./parallel ../tests/in/test7.in
+==28195== 
+-55==28195== 
+==28195== Use --history-level=approx or =none to gain increased speed, at
+==28195== the cost of reduced accuracy of conflicting-access information
+==28195== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28195-- 
+--28195-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28195== 
+==28195== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28200== Helgrind, a thread error detector
+==28200== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28200== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28200== Command: ./parallel ../tests/in/test7.in
+==28200== 
+-55==28200== 
+==28200== Use --history-level=approx or =none to gain increased speed, at
+==28200== the cost of reduced accuracy of conflicting-access information
+==28200== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28200-- 
+--28200-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28200== 
+==28200== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28205== Helgrind, a thread error detector
+==28205== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28205== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28205== Command: ./parallel ../tests/in/test7.in
+==28205== 
+-55==28205== 
+==28205== Use --history-level=approx or =none to gain increased speed, at
+==28205== the cost of reduced accuracy of conflicting-access information
+==28205== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28205-- 
+--28205-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28205== 
+==28205== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28220== Helgrind, a thread error detector
+==28220== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28220== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28220== Command: ./parallel ../tests/in/test7.in
+==28220== 
+-55==28220== 
+==28220== Use --history-level=approx or =none to gain increased speed, at
+==28220== the cost of reduced accuracy of conflicting-access information
+==28220== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28220-- 
+--28220-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28220== 
+==28220== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28225== Helgrind, a thread error detector
+==28225== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28225== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28225== Command: ./parallel ../tests/in/test7.in
+==28225== 
+-55==28225== 
+==28225== Use --history-level=approx or =none to gain increased speed, at
+==28225== the cost of reduced accuracy of conflicting-access information
+==28225== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28225-- 
+--28225-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28225== 
+==28225== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28234== Helgrind, a thread error detector
+==28234== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28234== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28234== Command: ./parallel ../tests/in/test7.in
+==28234== 
+-55==28234== 
+==28234== Use --history-level=approx or =none to gain increased speed, at
+==28234== the cost of reduced accuracy of conflicting-access information
+==28234== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28234-- 
+--28234-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28234== 
+==28234== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28239== Helgrind, a thread error detector
+==28239== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28239== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28239== Command: ./parallel ../tests/in/test7.in
+==28239== 
+-55==28239== 
+==28239== Use --history-level=approx or =none to gain increased speed, at
+==28239== the cost of reduced accuracy of conflicting-access information
+==28239== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28239-- 
+--28239-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28239== 
+==28239== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28244== Helgrind, a thread error detector
+==28244== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28244== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28244== Command: ./parallel ../tests/in/test7.in
+==28244== 
+-55==28244== 
+==28244== Use --history-level=approx or =none to gain increased speed, at
+==28244== the cost of reduced accuracy of conflicting-access information
+==28244== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28244-- 
+--28244-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28244== 
+==28244== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28249== Helgrind, a thread error detector
+==28249== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28249== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28249== Command: ./parallel ../tests/in/test7.in
+==28249== 
+-55==28249== 
+==28249== Use --history-level=approx or =none to gain increased speed, at
+==28249== the cost of reduced accuracy of conflicting-access information
+==28249== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28249-- 
+--28249-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28249== 
+==28249== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28254== Helgrind, a thread error detector
+==28254== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28254== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28254== Command: ./parallel ../tests/in/test7.in
+==28254== 
+-55==28254== 
+==28254== Use --history-level=approx or =none to gain increased speed, at
+==28254== the cost of reduced accuracy of conflicting-access information
+==28254== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28254-- 
+--28254-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28254== 
+==28254== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28259== Helgrind, a thread error detector
+==28259== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28259== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28259== Command: ./parallel ../tests/in/test7.in
+==28259== 
+-55==28259== 
+==28259== Use --history-level=approx or =none to gain increased speed, at
+==28259== the cost of reduced accuracy of conflicting-access information
+==28259== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28259-- 
+--28259-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28259== 
+==28259== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28264== Helgrind, a thread error detector
+==28264== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28264== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28264== Command: ./parallel ../tests/in/test7.in
+==28264== 
+-55==28264== 
+==28264== Use --history-level=approx or =none to gain increased speed, at
+==28264== the cost of reduced accuracy of conflicting-access information
+==28264== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28264-- 
+--28264-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28264== 
+==28264== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28269== Helgrind, a thread error detector
+==28269== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28269== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28269== Command: ./parallel ../tests/in/test7.in
+==28269== 
+-55==28269== 
+==28269== Use --history-level=approx or =none to gain increased speed, at
+==28269== the cost of reduced accuracy of conflicting-access information
+==28269== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28269-- 
+--28269-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28269== 
+==28269== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28274== Helgrind, a thread error detector
+==28274== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28274== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28274== Command: ./parallel ../tests/in/test7.in
+==28274== 
+-55==28274== 
+==28274== Use --history-level=approx or =none to gain increased speed, at
+==28274== the cost of reduced accuracy of conflicting-access information
+==28274== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28274-- 
+--28274-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28274== 
+==28274== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28279== Helgrind, a thread error detector
+==28279== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28279== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28279== Command: ./parallel ../tests/in/test7.in
+==28279== 
+-55==28279== 
+==28279== Use --history-level=approx or =none to gain increased speed, at
+==28279== the cost of reduced accuracy of conflicting-access information
+==28279== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28279-- 
+--28279-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28279== 
+==28279== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28284== Helgrind, a thread error detector
+==28284== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28284== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28284== Command: ./parallel ../tests/in/test7.in
+==28284== 
+-55==28284== 
+==28284== Use --history-level=approx or =none to gain increased speed, at
+==28284== the cost of reduced accuracy of conflicting-access information
+==28284== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28284-- 
+--28284-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28284== 
+==28284== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28289== Helgrind, a thread error detector
+==28289== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28289== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28289== Command: ./parallel ../tests/in/test7.in
+==28289== 
+-55==28289== 
+==28289== Use --history-level=approx or =none to gain increased speed, at
+==28289== the cost of reduced accuracy of conflicting-access information
+==28289== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28289-- 
+--28289-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28289== 
+==28289== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28294== Helgrind, a thread error detector
+==28294== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28294== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28294== Command: ./parallel ../tests/in/test7.in
+==28294== 
+-55==28294== 
+==28294== Use --history-level=approx or =none to gain increased speed, at
+==28294== the cost of reduced accuracy of conflicting-access information
+==28294== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28294-- 
+--28294-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28294== 
+==28294== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28299== Helgrind, a thread error detector
+==28299== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28299== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28299== Command: ./parallel ../tests/in/test7.in
+==28299== 
+-55==28299== 
+==28299== Use --history-level=approx or =none to gain increased speed, at
+==28299== the cost of reduced accuracy of conflicting-access information
+==28299== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28299-- 
+--28299-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28299== 
+==28299== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28304== Helgrind, a thread error detector
+==28304== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28304== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28304== Command: ./parallel ../tests/in/test7.in
+==28304== 
+-55==28304== 
+==28304== Use --history-level=approx or =none to gain increased speed, at
+==28304== the cost of reduced accuracy of conflicting-access information
+==28304== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28304-- 
+--28304-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28304== 
+==28304== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28309== Helgrind, a thread error detector
+==28309== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28309== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28309== Command: ./parallel ../tests/in/test7.in
+==28309== 
+-55==28309== 
+==28309== Use --history-level=approx or =none to gain increased speed, at
+==28309== the cost of reduced accuracy of conflicting-access information
+==28309== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28309-- 
+--28309-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28309== 
+==28309== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28314== Helgrind, a thread error detector
+==28314== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28314== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28314== Command: ./parallel ../tests/in/test7.in
+==28314== 
+-55==28314== 
+==28314== Use --history-level=approx or =none to gain increased speed, at
+==28314== the cost of reduced accuracy of conflicting-access information
+==28314== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28314-- 
+--28314-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28314== 
+==28314== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28319== Helgrind, a thread error detector
+==28319== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28319== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28319== Command: ./parallel ../tests/in/test7.in
+==28319== 
+-55==28319== 
+==28319== Use --history-level=approx or =none to gain increased speed, at
+==28319== the cost of reduced accuracy of conflicting-access information
+==28319== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28319-- 
+--28319-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28319== 
+==28319== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28324== Helgrind, a thread error detector
+==28324== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28324== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28324== Command: ./parallel ../tests/in/test7.in
+==28324== 
+-55==28324== 
+==28324== Use --history-level=approx or =none to gain increased speed, at
+==28324== the cost of reduced accuracy of conflicting-access information
+==28324== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28324-- 
+--28324-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28324== 
+==28324== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28329== Helgrind, a thread error detector
+==28329== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28329== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28329== Command: ./parallel ../tests/in/test7.in
+==28329== 
+-55==28329== 
+==28329== Use --history-level=approx or =none to gain increased speed, at
+==28329== the cost of reduced accuracy of conflicting-access information
+==28329== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28329-- 
+--28329-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28329== 
+==28329== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28334== Helgrind, a thread error detector
+==28334== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28334== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28334== Command: ./parallel ../tests/in/test7.in
+==28334== 
+-55==28334== 
+==28334== Use --history-level=approx or =none to gain increased speed, at
+==28334== the cost of reduced accuracy of conflicting-access information
+==28334== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28334-- 
+--28334-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28334== 
+==28334== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28339== Helgrind, a thread error detector
+==28339== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28339== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28339== Command: ./parallel ../tests/in/test7.in
+==28339== 
+-55==28339== 
+==28339== Use --history-level=approx or =none to gain increased speed, at
+==28339== the cost of reduced accuracy of conflicting-access information
+==28339== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28339-- 
+--28339-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28339== 
+==28339== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28344== Helgrind, a thread error detector
+==28344== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28344== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28344== Command: ./parallel ../tests/in/test7.in
+==28344== 
+-55==28344== 
+==28344== Use --history-level=approx or =none to gain increased speed, at
+==28344== the cost of reduced accuracy of conflicting-access information
+==28344== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28344-- 
+--28344-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28344== 
+==28344== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28349== Helgrind, a thread error detector
+==28349== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28349== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28349== Command: ./parallel ../tests/in/test7.in
+==28349== 
+-55==28349== 
+==28349== Use --history-level=approx or =none to gain increased speed, at
+==28349== the cost of reduced accuracy of conflicting-access information
+==28349== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28349-- 
+--28349-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28349== 
+==28349== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28354== Helgrind, a thread error detector
+==28354== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28354== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28354== Command: ./parallel ../tests/in/test7.in
+==28354== 
+-55==28354== 
+==28354== Use --history-level=approx or =none to gain increased speed, at
+==28354== the cost of reduced accuracy of conflicting-access information
+==28354== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28354-- 
+--28354-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28354== 
+==28354== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28359== Helgrind, a thread error detector
+==28359== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28359== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28359== Command: ./parallel ../tests/in/test7.in
+==28359== 
+-55==28359== 
+==28359== Use --history-level=approx or =none to gain increased speed, at
+==28359== the cost of reduced accuracy of conflicting-access information
+==28359== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28359-- 
+--28359-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28359== 
+==28359== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28364== Helgrind, a thread error detector
+==28364== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28364== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28364== Command: ./parallel ../tests/in/test7.in
+==28364== 
+-55==28364== 
+==28364== Use --history-level=approx or =none to gain increased speed, at
+==28364== the cost of reduced accuracy of conflicting-access information
+==28364== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28364-- 
+--28364-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28364== 
+==28364== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28369== Helgrind, a thread error detector
+==28369== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28369== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28369== Command: ./parallel ../tests/in/test7.in
+==28369== 
+-55==28369== 
+==28369== Use --history-level=approx or =none to gain increased speed, at
+==28369== the cost of reduced accuracy of conflicting-access information
+==28369== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28369-- 
+--28369-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28369== 
+==28369== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28374== Helgrind, a thread error detector
+==28374== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28374== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28374== Command: ./parallel ../tests/in/test7.in
+==28374== 
+-55==28374== 
+==28374== Use --history-level=approx or =none to gain increased speed, at
+==28374== the cost of reduced accuracy of conflicting-access information
+==28374== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28374-- 
+--28374-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28374== 
+==28374== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28379== Helgrind, a thread error detector
+==28379== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28379== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28379== Command: ./parallel ../tests/in/test7.in
+==28379== 
+-55==28379== 
+==28379== Use --history-level=approx or =none to gain increased speed, at
+==28379== the cost of reduced accuracy of conflicting-access information
+==28379== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28379-- 
+--28379-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28379== 
+==28379== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28384== Helgrind, a thread error detector
+==28384== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28384== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28384== Command: ./parallel ../tests/in/test7.in
+==28384== 
+-55==28384== 
+==28384== Use --history-level=approx or =none to gain increased speed, at
+==28384== the cost of reduced accuracy of conflicting-access information
+==28384== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28384-- 
+--28384-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28384== 
+==28384== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28389== Helgrind, a thread error detector
+==28389== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28389== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28389== Command: ./parallel ../tests/in/test7.in
+==28389== 
+-55==28389== 
+==28389== Use --history-level=approx or =none to gain increased speed, at
+==28389== the cost of reduced accuracy of conflicting-access information
+==28389== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28389-- 
+--28389-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28389== 
+==28389== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28394== Helgrind, a thread error detector
+==28394== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28394== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28394== Command: ./parallel ../tests/in/test7.in
+==28394== 
+-55==28394== 
+==28394== Use --history-level=approx or =none to gain increased speed, at
+==28394== the cost of reduced accuracy of conflicting-access information
+==28394== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28394-- 
+--28394-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28394== 
+==28394== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28399== Helgrind, a thread error detector
+==28399== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28399== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28399== Command: ./parallel ../tests/in/test7.in
+==28399== 
+-55==28399== 
+==28399== Use --history-level=approx or =none to gain increased speed, at
+==28399== the cost of reduced accuracy of conflicting-access information
+==28399== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28399-- 
+--28399-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28399== 
+==28399== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28404== Helgrind, a thread error detector
+==28404== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28404== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28404== Command: ./parallel ../tests/in/test7.in
+==28404== 
+-55==28404== 
+==28404== Use --history-level=approx or =none to gain increased speed, at
+==28404== the cost of reduced accuracy of conflicting-access information
+==28404== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28404-- 
+--28404-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28404== 
+==28404== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28409== Helgrind, a thread error detector
+==28409== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28409== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28409== Command: ./parallel ../tests/in/test7.in
+==28409== 
+-55==28409== 
+==28409== Use --history-level=approx or =none to gain increased speed, at
+==28409== the cost of reduced accuracy of conflicting-access information
+==28409== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28409-- 
+--28409-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28409== 
+==28409== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28414== Helgrind, a thread error detector
+==28414== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28414== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28414== Command: ./parallel ../tests/in/test7.in
+==28414== 
+-55==28414== 
+==28414== Use --history-level=approx or =none to gain increased speed, at
+==28414== the cost of reduced accuracy of conflicting-access information
+==28414== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28414-- 
+--28414-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28414== 
+==28414== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28419== Helgrind, a thread error detector
+==28419== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28419== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28419== Command: ./parallel ../tests/in/test7.in
+==28419== 
+-55==28419== 
+==28419== Use --history-level=approx or =none to gain increased speed, at
+==28419== the cost of reduced accuracy of conflicting-access information
+==28419== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28419-- 
+--28419-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28419== 
+==28419== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28424== Helgrind, a thread error detector
+==28424== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28424== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28424== Command: ./parallel ../tests/in/test7.in
+==28424== 
+-55==28424== 
+==28424== Use --history-level=approx or =none to gain increased speed, at
+==28424== the cost of reduced accuracy of conflicting-access information
+==28424== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28424-- 
+--28424-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28424== 
+==28424== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28432== Helgrind, a thread error detector
+==28432== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28432== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28432== Command: ./parallel ../tests/in/test7.in
+==28432== 
+-55==28432== 
+==28432== Use --history-level=approx or =none to gain increased speed, at
+==28432== the cost of reduced accuracy of conflicting-access information
+==28432== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28432-- 
+--28432-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28432== 
+==28432== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28437== Helgrind, a thread error detector
+==28437== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28437== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28437== Command: ./parallel ../tests/in/test7.in
+==28437== 
+-55==28437== 
+==28437== Use --history-level=approx or =none to gain increased speed, at
+==28437== the cost of reduced accuracy of conflicting-access information
+==28437== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28437-- 
+--28437-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28437== 
+==28437== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28442== Helgrind, a thread error detector
+==28442== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28442== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28442== Command: ./parallel ../tests/in/test7.in
+==28442== 
+-55==28442== 
+==28442== Use --history-level=approx or =none to gain increased speed, at
+==28442== the cost of reduced accuracy of conflicting-access information
+==28442== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28442-- 
+--28442-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28442== 
+==28442== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28447== Helgrind, a thread error detector
+==28447== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28447== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28447== Command: ./parallel ../tests/in/test7.in
+==28447== 
+-55==28447== 
+==28447== Use --history-level=approx or =none to gain increased speed, at
+==28447== the cost of reduced accuracy of conflicting-access information
+==28447== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28447-- 
+--28447-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28447== 
+==28447== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28452== Helgrind, a thread error detector
+==28452== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28452== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28452== Command: ./parallel ../tests/in/test7.in
+==28452== 
+-55==28452== 
+==28452== Use --history-level=approx or =none to gain increased speed, at
+==28452== the cost of reduced accuracy of conflicting-access information
+==28452== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28452-- 
+--28452-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28452== 
+==28452== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28457== Helgrind, a thread error detector
+==28457== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28457== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28457== Command: ./parallel ../tests/in/test7.in
+==28457== 
+-55==28457== 
+==28457== Use --history-level=approx or =none to gain increased speed, at
+==28457== the cost of reduced accuracy of conflicting-access information
+==28457== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28457-- 
+--28457-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28457== 
+==28457== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28462== Helgrind, a thread error detector
+==28462== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28462== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28462== Command: ./parallel ../tests/in/test7.in
+==28462== 
+-55==28462== 
+==28462== Use --history-level=approx or =none to gain increased speed, at
+==28462== the cost of reduced accuracy of conflicting-access information
+==28462== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28462-- 
+--28462-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28462== 
+==28462== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28467== Helgrind, a thread error detector
+==28467== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28467== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28467== Command: ./parallel ../tests/in/test7.in
+==28467== 
+-55==28467== 
+==28467== Use --history-level=approx or =none to gain increased speed, at
+==28467== the cost of reduced accuracy of conflicting-access information
+==28467== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28467-- 
+--28467-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28467== 
+==28467== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28472== Helgrind, a thread error detector
+==28472== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28472== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28472== Command: ./parallel ../tests/in/test7.in
+==28472== 
+-55==28472== 
+==28472== Use --history-level=approx or =none to gain increased speed, at
+==28472== the cost of reduced accuracy of conflicting-access information
+==28472== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28472-- 
+--28472-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28472== 
+==28472== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28477== Helgrind, a thread error detector
+==28477== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28477== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28477== Command: ./parallel ../tests/in/test7.in
+==28477== 
+-55==28477== 
+==28477== Use --history-level=approx or =none to gain increased speed, at
+==28477== the cost of reduced accuracy of conflicting-access information
+==28477== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28477-- 
+--28477-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28477== 
+==28477== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28482== Helgrind, a thread error detector
+==28482== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28482== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28482== Command: ./parallel ../tests/in/test7.in
+==28482== 
+-55==28482== 
+==28482== Use --history-level=approx or =none to gain increased speed, at
+==28482== the cost of reduced accuracy of conflicting-access information
+==28482== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28482-- 
+--28482-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28482== 
+==28482== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28487== Helgrind, a thread error detector
+==28487== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28487== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28487== Command: ./parallel ../tests/in/test7.in
+==28487== 
+-55==28487== 
+==28487== Use --history-level=approx or =none to gain increased speed, at
+==28487== the cost of reduced accuracy of conflicting-access information
+==28487== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28487-- 
+--28487-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28487== 
+==28487== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28492== Helgrind, a thread error detector
+==28492== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28492== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28492== Command: ./parallel ../tests/in/test7.in
+==28492== 
+-55==28492== 
+==28492== Use --history-level=approx or =none to gain increased speed, at
+==28492== the cost of reduced accuracy of conflicting-access information
+==28492== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28492-- 
+--28492-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28492== 
+==28492== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28497== Helgrind, a thread error detector
+==28497== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28497== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28497== Command: ./parallel ../tests/in/test7.in
+==28497== 
+-55==28497== 
+==28497== Use --history-level=approx or =none to gain increased speed, at
+==28497== the cost of reduced accuracy of conflicting-access information
+==28497== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28497-- 
+--28497-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28497== 
+==28497== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28502== Helgrind, a thread error detector
+==28502== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28502== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28502== Command: ./parallel ../tests/in/test7.in
+==28502== 
+-55==28502== 
+==28502== Use --history-level=approx or =none to gain increased speed, at
+==28502== the cost of reduced accuracy of conflicting-access information
+==28502== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28502-- 
+--28502-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28502== 
+==28502== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28507== Helgrind, a thread error detector
+==28507== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28507== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28507== Command: ./parallel ../tests/in/test7.in
+==28507== 
+-55==28507== 
+==28507== Use --history-level=approx or =none to gain increased speed, at
+==28507== the cost of reduced accuracy of conflicting-access information
+==28507== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28507-- 
+--28507-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28507== 
+==28507== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28512== Helgrind, a thread error detector
+==28512== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28512== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28512== Command: ./parallel ../tests/in/test7.in
+==28512== 
+-55==28512== 
+==28512== Use --history-level=approx or =none to gain increased speed, at
+==28512== the cost of reduced accuracy of conflicting-access information
+==28512== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28512-- 
+--28512-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28512== 
+==28512== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28517== Helgrind, a thread error detector
+==28517== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28517== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28517== Command: ./parallel ../tests/in/test7.in
+==28517== 
+-55==28517== 
+==28517== Use --history-level=approx or =none to gain increased speed, at
+==28517== the cost of reduced accuracy of conflicting-access information
+==28517== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28517-- 
+--28517-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28517== 
+==28517== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28522== Helgrind, a thread error detector
+==28522== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28522== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28522== Command: ./parallel ../tests/in/test7.in
+==28522== 
+-55==28522== 
+==28522== Use --history-level=approx or =none to gain increased speed, at
+==28522== the cost of reduced accuracy of conflicting-access information
+==28522== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28522-- 
+--28522-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28522== 
+==28522== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28527== Helgrind, a thread error detector
+==28527== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28527== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28527== Command: ./parallel ../tests/in/test7.in
+==28527== 
+-55==28527== 
+==28527== Use --history-level=approx or =none to gain increased speed, at
+==28527== the cost of reduced accuracy of conflicting-access information
+==28527== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28527-- 
+--28527-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28527== 
+==28527== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28532== Helgrind, a thread error detector
+==28532== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28532== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28532== Command: ./parallel ../tests/in/test7.in
+==28532== 
+-55==28532== 
+==28532== Use --history-level=approx or =none to gain increased speed, at
+==28532== the cost of reduced accuracy of conflicting-access information
+==28532== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28532-- 
+--28532-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28532== 
+==28532== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28537== Helgrind, a thread error detector
+==28537== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28537== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28537== Command: ./parallel ../tests/in/test7.in
+==28537== 
+-55==28537== 
+==28537== Use --history-level=approx or =none to gain increased speed, at
+==28537== the cost of reduced accuracy of conflicting-access information
+==28537== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28537-- 
+--28537-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28537== 
+==28537== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28542== Helgrind, a thread error detector
+==28542== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28542== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28542== Command: ./parallel ../tests/in/test7.in
+==28542== 
+-55==28542== 
+==28542== Use --history-level=approx or =none to gain increased speed, at
+==28542== the cost of reduced accuracy of conflicting-access information
+==28542== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28542-- 
+--28542-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28542== 
+==28542== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28547== Helgrind, a thread error detector
+==28547== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28547== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28547== Command: ./parallel ../tests/in/test7.in
+==28547== 
+-55==28547== 
+==28547== Use --history-level=approx or =none to gain increased speed, at
+==28547== the cost of reduced accuracy of conflicting-access information
+==28547== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28547-- 
+--28547-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28547== 
+==28547== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28552== Helgrind, a thread error detector
+==28552== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28552== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28552== Command: ./parallel ../tests/in/test7.in
+==28552== 
+-55==28552== 
+==28552== Use --history-level=approx or =none to gain increased speed, at
+==28552== the cost of reduced accuracy of conflicting-access information
+==28552== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28552-- 
+--28552-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28552== 
+==28552== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28557== Helgrind, a thread error detector
+==28557== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28557== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28557== Command: ./parallel ../tests/in/test7.in
+==28557== 
+-55==28557== 
+==28557== Use --history-level=approx or =none to gain increased speed, at
+==28557== the cost of reduced accuracy of conflicting-access information
+==28557== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28557-- 
+--28557-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28557== 
+==28557== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28562== Helgrind, a thread error detector
+==28562== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28562== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28562== Command: ./parallel ../tests/in/test7.in
+==28562== 
+-55==28562== 
+==28562== Use --history-level=approx or =none to gain increased speed, at
+==28562== the cost of reduced accuracy of conflicting-access information
+==28562== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28562-- 
+--28562-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28562== 
+==28562== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28567== Helgrind, a thread error detector
+==28567== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28567== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28567== Command: ./parallel ../tests/in/test7.in
+==28567== 
+-55==28567== 
+==28567== Use --history-level=approx or =none to gain increased speed, at
+==28567== the cost of reduced accuracy of conflicting-access information
+==28567== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28567-- 
+--28567-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28567== 
+==28567== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28572== Helgrind, a thread error detector
+==28572== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28572== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28572== Command: ./parallel ../tests/in/test7.in
+==28572== 
+-55==28572== 
+==28572== Use --history-level=approx or =none to gain increased speed, at
+==28572== the cost of reduced accuracy of conflicting-access information
+==28572== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28572-- 
+--28572-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28572== 
+==28572== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28577== Helgrind, a thread error detector
+==28577== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28577== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28577== Command: ./parallel ../tests/in/test7.in
+==28577== 
+-55==28577== 
+==28577== Use --history-level=approx or =none to gain increased speed, at
+==28577== the cost of reduced accuracy of conflicting-access information
+==28577== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28577-- 
+--28577-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28577== 
+==28577== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28582== Helgrind, a thread error detector
+==28582== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28582== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28582== Command: ./parallel ../tests/in/test7.in
+==28582== 
+-55==28582== 
+==28582== Use --history-level=approx or =none to gain increased speed, at
+==28582== the cost of reduced accuracy of conflicting-access information
+==28582== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28582-- 
+--28582-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28582== 
+==28582== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28587== Helgrind, a thread error detector
+==28587== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28587== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28587== Command: ./parallel ../tests/in/test7.in
+==28587== 
+-55==28587== 
+==28587== Use --history-level=approx or =none to gain increased speed, at
+==28587== the cost of reduced accuracy of conflicting-access information
+==28587== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28587-- 
+--28587-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28587== 
+==28587== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28592== Helgrind, a thread error detector
+==28592== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28592== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28592== Command: ./parallel ../tests/in/test7.in
+==28592== 
+-55==28592== 
+==28592== Use --history-level=approx or =none to gain increased speed, at
+==28592== the cost of reduced accuracy of conflicting-access information
+==28592== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28592-- 
+--28592-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28592== 
+==28592== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28597== Helgrind, a thread error detector
+==28597== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28597== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28597== Command: ./parallel ../tests/in/test7.in
+==28597== 
+-55==28597== 
+==28597== Use --history-level=approx or =none to gain increased speed, at
+==28597== the cost of reduced accuracy of conflicting-access information
+==28597== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28597-- 
+--28597-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28597== 
+==28597== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28602== Helgrind, a thread error detector
+==28602== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28602== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28602== Command: ./parallel ../tests/in/test7.in
+==28602== 
+-55==28602== 
+==28602== Use --history-level=approx or =none to gain increased speed, at
+==28602== the cost of reduced accuracy of conflicting-access information
+==28602== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28602-- 
+--28602-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28602== 
+==28602== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28607== Helgrind, a thread error detector
+==28607== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28607== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28607== Command: ./parallel ../tests/in/test7.in
+==28607== 
+-55==28607== 
+==28607== Use --history-level=approx or =none to gain increased speed, at
+==28607== the cost of reduced accuracy of conflicting-access information
+==28607== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28607-- 
+--28607-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28607== 
+==28607== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28612== Helgrind, a thread error detector
+==28612== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28612== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28612== Command: ./parallel ../tests/in/test7.in
+==28612== 
+-55==28612== 
+==28612== Use --history-level=approx or =none to gain increased speed, at
+==28612== the cost of reduced accuracy of conflicting-access information
+==28612== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28612-- 
+--28612-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28612== 
+==28612== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28617== Helgrind, a thread error detector
+==28617== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28617== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28617== Command: ./parallel ../tests/in/test7.in
+==28617== 
+-55==28617== 
+==28617== Use --history-level=approx or =none to gain increased speed, at
+==28617== the cost of reduced accuracy of conflicting-access information
+==28617== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28617-- 
+--28617-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28617== 
+==28617== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28622== Helgrind, a thread error detector
+==28622== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28622== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28622== Command: ./parallel ../tests/in/test7.in
+==28622== 
+-55==28622== 
+==28622== Use --history-level=approx or =none to gain increased speed, at
+==28622== the cost of reduced accuracy of conflicting-access information
+==28622== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28622-- 
+--28622-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28622== 
+==28622== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28627== Helgrind, a thread error detector
+==28627== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28627== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28627== Command: ./parallel ../tests/in/test7.in
+==28627== 
+-55==28627== 
+==28627== Use --history-level=approx or =none to gain increased speed, at
+==28627== the cost of reduced accuracy of conflicting-access information
+==28627== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28627-- 
+--28627-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28627== 
+==28627== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28632== Helgrind, a thread error detector
+==28632== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28632== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28632== Command: ./parallel ../tests/in/test7.in
+==28632== 
+-55==28632== 
+==28632== Use --history-level=approx or =none to gain increased speed, at
+==28632== the cost of reduced accuracy of conflicting-access information
+==28632== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28632-- 
+--28632-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28632== 
+==28632== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28637== Helgrind, a thread error detector
+==28637== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28637== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28637== Command: ./parallel ../tests/in/test7.in
+==28637== 
+-55==28637== 
+==28637== Use --history-level=approx or =none to gain increased speed, at
+==28637== the cost of reduced accuracy of conflicting-access information
+==28637== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28637-- 
+--28637-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28637== 
+==28637== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28642== Helgrind, a thread error detector
+==28642== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28642== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28642== Command: ./parallel ../tests/in/test7.in
+==28642== 
+-55==28642== 
+==28642== Use --history-level=approx or =none to gain increased speed, at
+==28642== the cost of reduced accuracy of conflicting-access information
+==28642== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28642-- 
+--28642-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28642== 
+==28642== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28647== Helgrind, a thread error detector
+==28647== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28647== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28647== Command: ./parallel ../tests/in/test7.in
+==28647== 
+-55==28647== 
+==28647== Use --history-level=approx or =none to gain increased speed, at
+==28647== the cost of reduced accuracy of conflicting-access information
+==28647== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28647-- 
+--28647-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28647== 
+==28647== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
+==28652== Helgrind, a thread error detector
+==28652== Copyright (C) 2007-2017, and GNU GPL'd, by OpenWorks LLP et al.
+==28652== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==28652== Command: ./parallel ../tests/in/test7.in
+==28652== 
+-55==28652== 
+==28652== Use --history-level=approx or =none to gain increased speed, at
+==28652== the cost of reduced accuracy of conflicting-access information
+==28652== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+--28652-- 
+--28652-- used_suppression:     79 helgrind-glibc2X-005 /usr/libexec/valgrind/default.supp:947
+==28652== 
+==28652== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 79 from 24)
+
+---------------------------------
+
