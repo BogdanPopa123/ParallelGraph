@@ -48,11 +48,11 @@ void enqueue_task(os_threadpool_t *tp, os_task_t *t)
 
 	if (queue_is_empty(tp)) {
 		list_init(&tp->head);
-		list_add(&tp->head, &t->list); //al 2 lea arg era &t.list  sau t
+		list_add(&tp->head, &t->list);
 
 		pthread_cond_signal(&tp->condition);
 	} else {
-		list_add_tail(&tp->head, &t->list); //al 2 lea arg era &t.list   sau t
+		list_add_tail(&tp->head, &t->list);
 	}
 
 	pthread_mutex_unlock(&tp->queue_mutex);
